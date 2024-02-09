@@ -1,0 +1,14 @@
+Extended_Flutes_20-Nov-20_4:17:55 PM	Left_PQC2_RPoly	
+Temperature(C)= 22.0	Humidity(%)= 7.8	Bias(V)= 0.000E+0
+Current_Limit(A) = 10.000E-6	Settling_time(s) = 0.2	
+		
+Voltage (V)	Current (A)
+-100.000E-3	-52.221E-9
+-75.000E-3	-41.997E-9
+-50.000E-3	-27.716E-9
+-25.000E-3	-13.428E-9
+0.000E+0	873.709E-12
+25.000E-3	13.435E-9
+50.000E-3	27.740E-9
+75.000E-3	41.984E-9
+100.000E-3	54.471E-9

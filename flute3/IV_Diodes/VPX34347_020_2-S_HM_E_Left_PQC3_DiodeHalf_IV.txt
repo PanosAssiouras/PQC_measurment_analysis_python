@@ -1,0 +1,7 @@
+Extended_Flutes_23-Nov-20_9:48:46 AM	Left_PQC3_DiodeHalf_IV	
+Temperature(C)= 19.1	Humidity(%)= 8.3	Bias(V)= 0.000E+0
+Current_Limit(A) = 15.000E-6	Settling_time(s) = 1.0	
+		
+Voltage (V)	Current (A)
+0.000E+0	46.180E-9
+-10.000E+0	14.644E-6
